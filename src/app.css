@@ -556,6 +556,9 @@
      width: 1.6em;
 
  }
+ .media-footer {
+    display: none;
+ }
 
 
  /* media responsiveness query */
