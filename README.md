@@ -22,7 +22,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/airbnb-ui-clone.git
+    git clone https://github.com/yashcx84/airbnb-ui-clone.git
     cd airbnb-ui-clone
     ```
 
