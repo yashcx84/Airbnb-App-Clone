@@ -1,19 +1,15 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import Nav from './Nav.jsx'
-import Middle from './middle.jsx'
-import Map from './Map'
-import Foot from "./Foot.jsx"
-import './index.css'
+import React from "react";
+import ReactDOM from "react-dom/client";
+import Foot from "./components/Foot.jsx";
+import "./index.css";
+import { BrowserRouter } from "react-router-dom";
+import RouterApp from "./router/RouterApp.jsx";
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Nav />
-    <Middle />
-    <Middle />
-    <Middle />
-    <Middle />
-    <Map />
-    <Foot />
-  </React.StrictMode>,
-)
+    <BrowserRouter>
+      <RouterApp />
+      <Foot />
+    </BrowserRouter>
+  </React.StrictMode>
+);

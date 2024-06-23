@@ -1,0 +1,36 @@
+.airbnbHomeContainer h1 span{
+    color: var(--color-secondary);
+}
+.airbnbHomeContainer h1 {
+    width: 100%;
+    font-family: var(--fonts-primary);
+}
+
+.homeNav button {
+    padding: 16px;
+    font-weight: bold;
+    color: white;
+    border-radius: 8px;
+    background: linear-gradient(180deg, var(--color-secondary), rgba(255, 121, 121, 0.452));
+}
+.homeNav img {
+    width: 7em;
+}
+
+.homeNav div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.questionsContainer .questionHeading {
+   flex: 1 300px;
+}
+.questionsContainer .questions {
+   flex: 1 300px;
+}
+
+.questions div {
+    border-bottom: 1px solid gainsboro;
+}

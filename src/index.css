@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway:wght@300&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 * {
   margin: 0;
   padding: 0;
@@ -18,3 +23,7 @@
 body {
   background-color: var(--color-primary);
 }
+body a:hover , body button:hover {
+  filter: brightness(0.8);
+}
+

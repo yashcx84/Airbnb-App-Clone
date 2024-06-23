@@ -1,0 +1,61 @@
+const iconsData = [
+    {
+        image:"../../src/assets/images/nav-icons/camping.jpg",
+        text:"Camping"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/island.jpg",
+        text:"Island"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/Earth-homes.jpg",
+        text:"EarthHomes"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/boats.jpg",
+        text:"Boats"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/vineyards.jpg",
+        text:"Vineyards"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/nationalparks.jpg",
+        text:"Parks"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/camping.jpg",
+        text:"Camping"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/island.jpg",
+        text:"Island"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/Earth-homes.jpg",
+        text:"EarthHomes"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/Earth-homes.jpg",
+        text:"EarthHomes"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/camping.jpg",
+        text:"Camping"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/island.jpg",
+        text:"Island"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/camping.jpg",
+        text:"Camping"
+    },
+    {
+        image:"../../src/assets/images/nav-icons/island.jpg",
+        text:"Island"
+    },
+    
+]
+
+export default iconsData;
