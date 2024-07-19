@@ -1,10 +1,10 @@
 import React from "react";
 import logos from "../logos";
 import airbnb from "/airbnb-fav.png";
-import inbox from "../assets/images/nav-icons/inbox.png";
-import profile from "../assets/images/nav-icons/profile.png";
-import wishlist from "../assets/images/nav-icons/wishlist.png";
-import browser_logo from "../assets/images/nav-icons/web.png";
+import inbox from "/images/nav-icons/inbox.png";
+import profile from "/images/nav-icons/profile.png";
+import wishlist from "/images/nav-icons/wishlist.png";
+import browser_logo from "/images/nav-icons/web.png";
 import { Link } from "react-router-dom";
 
 function Foot() {

@@ -1,6 +1,6 @@
 import { React, useState } from "react";
 import "./homes.css";
-import airbnbhomes from "../assets/images/others/airbnb-home.webp";
+import airbnbhomes from "../../public/images/others/airbnb-home.webp";
 import logoImages from "../logos";
 import { Link } from "react-router-dom";
 import { TbHomePlus } from "react-icons/tb";

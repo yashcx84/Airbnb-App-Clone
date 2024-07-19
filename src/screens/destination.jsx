@@ -1,12 +1,12 @@
 import React from "react";
 import "./destinations.css";
 import { Link } from "react-router-dom";
-import worldFlag from "../assets/images/others/global-flag.png";
-import ukFlag from "../assets/images/others/uk-flag.png";
-import usFlag from "../assets/images/others/us-flag.png";
-import indiaFlag from "../assets/images/others/india-flag.png";
-import thailandFlag from "../assets/images/others/thailand-flag.png";
-import europeFlag from "../assets/images/others/europe-flag.png";
+import worldFlag from "/images/others/global-flag.png";
+import ukFlag from "/images/others/uk-flag.png";
+import usFlag from "/images/others/us-flag.png";
+import indiaFlag from "/images/others/india-flag.png";
+import thailandFlag from "/images/others/thailand-flag.png";
+import europeFlag from "/images/others/europe-flag.png";
 import { MdArrowBackIosNew } from "react-icons/md";
 
 function destinations() {
